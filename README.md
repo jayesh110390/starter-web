@@ -3,6 +3,6 @@
 This repository is for showing how Git and GitHub work
 
 ## Purpose
-
+Upadted Readme
 copyright notice
 Sample website with plenty of files for demos
