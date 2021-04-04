@@ -1,3 +1,4 @@
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 
@@ -7,8 +8,9 @@ Edited
 
 # THANKS
 
-   Thanks to all sudents <name>
-
+	   Thanks to all sudents <name>
+	   Please review
+	   Z
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
