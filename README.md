@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 Adding line for rebase , more changes from myfeature branch
 
 All rught reserverd
+Another line for ex
